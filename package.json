@@ -1,0 +1,25 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "This is a website for Ristorante Con Fusion",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Niraj Timila",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirajtimila/frontEndWeek1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nirajtimila/frontEndWeek1/issues"
+  },
+  "homepage": "https://github.com/nirajtimila/frontEndWeek1#readme"
+}
