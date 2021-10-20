@@ -14,11 +14,11 @@ provide contact and address of the restaurant etc. This is basically coursera pr
 
 <h2> login modal </h2>
 
-<img src="img/git/project.png">
+<img src="img/git/project.PNG">
      
      <h2> Reserve table modal </h2>
 
-<img src="img/git/project1.png">
+<img src="img/git/project1.PNG">
 
 <h2> About page </h2>
 
