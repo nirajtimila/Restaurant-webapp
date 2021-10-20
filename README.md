@@ -9,5 +9,21 @@ provide contact and address of the restaurant etc. This is basically coursera pr
 
 <h1> User Interface </h1>
 
-<h2> Home page </h1>
+<h2> Home page </h2>
 <img src ="img/git/1.png">
+
+<h2> login modal </h2>
+
+<img src="img/git/project.png">
+     
+     <h2> Reserve table modal </h2>
+
+<img src="img/git/project1.png">
+
+<h2> About page </h2>
+
+<img src="img/git/2.png">
+
+<h2> Contact page</h2>
+
+<img src="img/git/3.png">
